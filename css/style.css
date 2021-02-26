@@ -1,0 +1,29 @@
+
+
+/*Inpust styles*/
+
+label{
+	display:block;
+}
+.inputs{
+	display:inline-block;
+	margin:10px 10px 10px 0;
+}
+/*End*/
+/*Table styles*/
+td,
+th {
+	text-align: left;
+	padding: .5rem 1rem;
+}
+
+tbody tr:nth-child(odd) {
+	background-color: #ccc;
+}
+
+th {
+	background: #444;
+	color: #fff;
+}
+/*End tables*/
+
